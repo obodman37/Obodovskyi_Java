@@ -1,4 +1,4 @@
-package org.example;
+package org.tasks_1_4;
 
 import java.util.Locale;
 import java.util.Scanner;
