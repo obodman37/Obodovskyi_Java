@@ -27,7 +27,7 @@ public class Obodovskyi_Test {
 
         int[] array = new int[size];
 
-        System.out.println("Enter the elements:");
+        System.out.println("Enter the elements of the array by separating them with the press Enter:");
 
         for (int i = 0; i < size; i++) {
             array[i] = scannerValue.nextInt();
